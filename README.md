@@ -1,5 +1,8 @@
 # seek-truth-from-facts
 
+<img width="852" height="429" alt="image" src="https://github.com/user-attachments/assets/38b0acb7-52a4-4449-8dfb-311b97874f89" />
+
+
 [English](README_EN.md)
 
 基于"**解放思想、实事求是、与时俱进**"方法论的 AI 分析技能，结合矛盾论与实践论，帮助 AI 对问题进行独立、客观、辩证的可行性分析，拒绝无节制迎合与空洞发散。
