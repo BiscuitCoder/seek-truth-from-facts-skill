@@ -1,4 +1,4 @@
-# seek-truth-from-facts
+# seek-truth-from-facts.skill
 
 <img width="852" height="429" alt="image" src="https://github.com/user-attachments/assets/0ddce378-05b3-40ca-9fd6-66285e61288e" />
 
@@ -27,19 +27,19 @@ Install to current project (run from git repo root):
 
 ```bash
 mkdir -p .claude/skills
-git clone https://github.com/BiscuitCoder/seek-truth-from-facts.skill .claude/skills/seek-truth-from-facts
+git clone https://github.com/BiscuitCoder/seek-truth-from-facts-skill .claude/skills/seek-truth-from-facts
 ```
 
 Or install globally (available in all projects):
 
 ```bash
-git clone https://github.com/BiscuitCoder/seek-truth-from-facts.skill ~/.claude/skills/seek-truth-from-facts
+git clone https://github.com/BiscuitCoder/seek-truth-from-facts-skill ~/.claude/skills/seek-truth-from-facts
 ```
 
 ### OpenClaw
 
 ```bash
-git clone https://github.com/BiscuitCoder/seek-truth-from-facts.skill ~/.openclaw/workspace/skills/seek-truth-from-facts
+git clone https://github.com/BiscuitCoder/seek-truth-from-facts-skill ~/.openclaw/workspace/skills/seek-truth-from-facts
 ```
 
 ## Use Cases

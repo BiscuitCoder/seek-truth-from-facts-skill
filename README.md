@@ -1,4 +1,4 @@
-# seek-truth-from-facts
+# 实事求是.skill
 
 <img width="852" height="429" alt="image" src="https://github.com/user-attachments/assets/38b0acb7-52a4-4449-8dfb-311b97874f89" />
 
@@ -27,19 +27,19 @@
 
 ```bash
 mkdir -p .claude/skills
-git clone https://github.com/BiscuitCoder/seek-truth-from-facts.skill .claude/skills/seek-truth-from-facts
+git clone https://github.com/BiscuitCoder/seek-truth-from-facts-skill .claude/skills/seek-truth-from-facts
 ```
 
 或安装到全局（所有项目都能用）：
 
 ```bash
-git clone https://github.com/BiscuitCoder/seek-truth-from-facts.skill ~/.claude/skills/seek-truth-from-facts
+git clone https://github.com/BiscuitCoder/seek-truth-from-facts-skill ~/.claude/skills/seek-truth-from-facts
 ```
 
 ### OpenClaw
 
 ```bash
-git clone https://github.com/BiscuitCoder/seek-truth-from-facts.skill ~/.openclaw/workspace/skills/seek-truth-from-facts
+git clone https://github.com/BiscuitCoder/seek-truth-from-facts-skill ~/.openclaw/workspace/skills/seek-truth-from-facts
 ```
 
 ## 适用场景
