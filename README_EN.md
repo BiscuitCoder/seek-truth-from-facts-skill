@@ -1,5 +1,8 @@
 # seek-truth-from-facts
 
+<img width="852" height="429" alt="image" src="https://github.com/user-attachments/assets/0ddce378-05b3-40ca-9fd6-66285e61288e" />
+
+
 [中文](README.md)
 
 An AI analysis skill based on the methodology of **"Emancipate the Mind, Seek Truth from Facts, Keep Pace with the Times"**, combined with *On Contradiction* and *On Practice*. Enables independent, objective, and dialectical feasibility analysis. Refuses sycophantic agreement and unconstrained speculation.
